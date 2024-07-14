@@ -1,4 +1,4 @@
-## Sublime Auto Build with Java setter
+## Sublime Auto Build with Java
 
 The program solves the 
 Problem: of mannual typing to run and produce the Java .class file
